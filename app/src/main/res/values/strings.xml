@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">اُکالا استورز</string>
+    <string name="tagline">فروشگاه‌های اُکالا، نزدیک شما</string>
+
+    <string name="stores_title">فروشگاه‌ها</string>
+    <string name="search_hint">جستجوی فروشگاه، برند یا محله…</string>
+    <string name="refresh">به‌روزرسانی</string>
+    <string name="about">درباره</string>
+    <string name="retry">تلاش دوباره</string>
+    <string name="all">همه</string>
+
+    <string name="hero_title">فروشگاه‌های اطراف شما</string>
+    <string name="hero_subtitle">خرید آنلاین از نزدیک‌ترین سوپرمارکت‌ها، نانوایی‌ها و میوه‌فروشی‌های اُکالا</string>
+    <string name="hero_stat_stores">فروشگاه</string>
+    <string name="hero_stat_partners">برند</string>
+    <string name="hero_stat_rating">میانگین امتیاز</string>
+    <string name="location_default">تهران (موقعیت پیش‌فرض)</string>
+    <string name="location_live">نزدیک موقعیت شما</string>
+    <string name="location_permission_title">فروشگاه‌های دقیق‌تر، نزدیک‌تر</string>
+    <string name="location_permission_body">برای نمایش نزدیک‌ترین شعبه‌ها، دسترسی موقعیت مکانی را فعال کنید.</string>
+    <string name="location_permission_action">فعال‌سازی موقعیت</string>
+
+    <string name="sort_label">مرتب‌سازی</string>
+    <string name="sort_distance">نزدیک‌ترین</string>
+    <string name="sort_rating">بیشترین امتیاز</string>
+    <string name="sort_popular">محبوب‌ترین</string>
+
+    <string name="empty_title">فروشگاهی پیدا نشد</string>
+    <string name="empty_body">فیلترها یا عبارت جستجو را تغییر دهید.</string>
+    <string name="error_title">اتصال برقرار نشد</string>
+    <string name="offline_banner">نمایش آخرین داده‌های ذخیره‌شده</string>
+
+    <string name="store_closed">بسته است</string>
+    <string name="store_open">باز است</string>
+    <string name="store_fast">ارسال سریع</string>
+    <string name="store_details">مشاهده فروشگاه</string>
+    <string name="store_shop">خرید از این فروشگاه</string>
+    <string name="store_navigate">مسیریابی</string>
+    <string name="store_share">اشتراک‌گذاری</string>
+    <string name="store_open_browser">باز کردن در مرورگر</string>
+
+    <string name="detail_eta">زمان ارسال</string>
+    <string name="detail_delivery_fee">هزینه ارسال</string>
+    <string name="detail_min_order">حداقل سفارش</string>
+    <string name="detail_packaging">هزینه بسته‌بندی</string>
+    <string name="detail_address">آدرس فروشگاه</string>
+    <string name="detail_address_empty">آدرس این فروشگاه در سرویس اُکالا ثبت نشده است.</string>
+    <string name="detail_status">وضعیت فروشگاه</string>
+    <string name="detail_delivery_methods">روش‌های ارسال</string>
+    <string name="detail_about">درباره این فروشگاه</string>
+    <string name="detail_rating_count">(%1$s امتیاز)</string>
+
+    <string name="about_title">درباره اُکالا استورز</string>
+    <string name="about_version">نسخه ۱.۰.۰</string>
+    <string name="about_body">این اپلیکیشن یک نمایشگر مستقل برای فروشگاه‌های اُکالا است و وابستگی رسمی به شرکت اُکالا ندارد.\n\nداده‌های فروشگاه‌ها از سرویس عمومی اُکالا دریافت می‌شوند و ممکن است با اپلیکیشن رسمی تفاوت داشته باشند.</string>
+    <string name="about_website">وب‌سایت اُکالا</string>
+    <string name="close">بستن</string>
+    <string name="back">بازگشت</string>
+    <string name="open_settings">تنظیمات</string>
+
+    <!-- Fully Persian fallbacks (no English UI text) -->
+    <string name="fallback_store_name">فروشگاه اُکالا</string>
+    <string name="fallback_store">فروشگاه</string>
+    <string name="fallback_category">سایر</string>
+    <string name="new_rating">جدید</string>
+    <string name="delivery_fallback">ارسال با پیک</string>
+    <string name="status_available">در دسترس</string>
+    <string name="status_unavailable">غیرفعال</string>
+    <string name="share_store_chooser">اشتراکگذاری فروشگاه</string>
+    <string name="data_source">دادهها از سرویس عمومی فروشگاههای اُکالا</string>
+    <string name="made_for_you">ساختهشده برای خرید راحتتر</string>
+    <string name="nearby_stores">نزدیکترین فروشگاهها</string>
+    <string name="stores_count_suffix">%1$s فروشگاه • %2$s</string>
+    <string name="location_unavailable">موقعیت شما در دسترس نیست</string>
+
+    <!-- Web shop -->
+    <string name="web_shopping">خرید آنلاین</string>
+    <string name="web_error_title">صفحه بارگذاری نشد</string>
+    <string name="web_error_body">اتصال اینترنت را بررسی کنید و دوباره تلاش کنید.</string>
+</resources>
